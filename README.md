@@ -142,6 +142,18 @@ Full write-up: reports/executive_summary.md
 
 ---
 
+## Interactive Dashboard
+
+Built in Power BI with 4 pages: Executive Overview, Category Deep Dive,
+Pricing & Quality, and Recommendation.
+
+![Executive Overview](images/dashboard_01_overview.png)
+![Recommendation](images/dashboard_04_recommendation.png)
+
+*(Full .pbix file: `dashboard/playstore_dashboard.pbix`)*
+
+---
+
 ## Limitations
 
 - 2018 snapshot data - true install counts and real-time trends are unknown
